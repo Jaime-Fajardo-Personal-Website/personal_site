@@ -63,6 +63,16 @@ li {
     text-align: center;
 }
 
+img {
+    display: inline-block; 
+    width: 100px;
+    border: 2px solid green;
+    padding: 5px;
+    margin: 5px;
+    color: white;
+    text-align: center;
+}
+
 
 footer {
  
