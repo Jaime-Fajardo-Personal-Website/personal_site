@@ -73,6 +73,34 @@ img {
     text-align: center;
 }
 
+.myprojects {
+    display: block; 
+   /* width: 500px; */
+    border: 2px solid rgb(162, 14, 168);
+    padding: 5px;
+    margin: 5px;
+    
+    }
+
+.proj1 {
+    display: block; 
+   /* width: 500px; */
+    border: 2px solid rgb(12, 66, 215);
+    padding: 5px;
+    margin: 5px;
+    
+    }
+
+
+.proj2 {
+    display: block; 
+    /* width: 500px; */
+        border: 2px solid rgb(208, 137, 14);
+        padding: 5px;
+        margin: 5px;
+       
+        }
+
 
 footer {
  
